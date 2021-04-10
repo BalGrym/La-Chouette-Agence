@@ -789,9 +789,13 @@ h4 {
     color: white!important;
 }
 
+.texte-black{
+    color: #000000!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
